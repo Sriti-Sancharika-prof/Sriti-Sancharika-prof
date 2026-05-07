@@ -1,4 +1,8 @@
 # Hi, I'm Sriti Sancharika 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sriti%20Sancharika-blue?logo=linkedin)](https://www.linkedin.com/in/sriti-sancharika-a09354260)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5934--7762-green?logo=orcid)](https://orcid.org/0009-0003-5934-7762)
+
 
 Electronics and Instrumentation Engineering undergraduate interested in Analog & Mixed-Signal VLSI, Low-Power CMOS Design, SAR ADC architectures, FPGA systems, and hardware-oriented research.
 
