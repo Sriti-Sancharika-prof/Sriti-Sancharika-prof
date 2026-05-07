@@ -1,5 +1,7 @@
 # Hi, I'm Sriti Sancharika 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sriti%20Sancharika-blue?logo=linkedin)](https://www.linkedin.com/in/sriti-sancharika-a09354260)
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="sriti-sancharika-a09354260" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sriti-sancharika-a09354260?trk=profile-badge">Sriti Sancharika</a></div>
+              
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--5934--7762-green?logo=orcid)](https://orcid.org/0009-0003-5934-7762)
 
